@@ -1,5 +1,5 @@
 <div>
-  <img style="vertical-align:middle" src="https://github.com/nairakhils/testreadme/blob/main/idrlogo1.png">
+  <img style="vertical-align:middle" src="https://github.com/nairakhils/testreadme/blob/main/idrlogo1.png width="100" height="100">
   <span style="">Works.</span>
 </div>
 
