@@ -1,4 +1,4 @@
-# idresearch
+# idresearch <img src="https://github.com/nairakhils/testreadme/blob/main/idrlogo1.png" width="100" height="100">
 ## Documentation
 
 
