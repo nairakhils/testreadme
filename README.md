@@ -1,4 +1,4 @@
-# idsearch &#x1F50E;&#xFE0E;
+# idsearch &#x1F50E;&#xFE0E;&#128240;&#x1F4F0;
 
 ## Documentation
 
