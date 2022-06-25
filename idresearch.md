@@ -1,20 +1,3 @@
-<div class="wy-grid-for-nav">
-
-<div class="wy-side-scroll">
-
-<div class="wy-side-nav-search">
-
-[idresearch](index.html)
-
-<div role="search">
-
-</div>
-
-</div>
-
-<div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
-
-<span class="caption-text">Contents:</span>
 
   - [idresearch Functions](#)
 
@@ -306,27 +289,4 @@ Function for idresearch.
 
 <div class="rst-footer-buttons" role="navigation" aria-label="Footer">
 
-[<span class="fa fa-arrow-circle-left" aria-hidden="true"></span>
-Previous](index.html "Welcome to idresearch’s documentation!")
 
-</div>
-
------
-
-<div role="contentinfo">
-
-© Copyright 2022, A. Karekkat, A. Nair, B. Palit.
-
-</div>
-
-Built with [Sphinx](https://www.sphinx-doc.org/) using a
-[theme](https://github.com/readthedocs/sphinx_rtd_theme) provided by
-[Read the Docs](https://readthedocs.org).
-
-</div>
-
-</div>
-
-</div>
-
-</div>
