@@ -1,35 +1,4 @@
 
-  - [idresearch Functions](#)
-
-</div>
-
-</div>
-
-<div class="section wy-nav-content-wrap" data-toggle="wy-nav-shift">
-
-** [idresearch](index.html)
-
-<div class="wy-nav-content">
-
-<div class="rst-content">
-
-<div role="navigation" aria-label="Page navigation">
-
-  - [](index.html) »
-  - idresearch Functions
-  - [View page source](_sources/idresearch.rst.txt)
-
------
-
-</div>
-
-<div class="document" role="main" itemscope="itemscope" itemtype="http://schema.org/Article">
-
-<div itemprop="articleBody">
-
-<div id="idresearch" class="section">
-
-<span id="idresearch-functions"></span>
 
 # idresearch Functions[](#idresearch "Permalink to this heading")
 
