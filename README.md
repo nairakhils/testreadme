@@ -1,4 +1,8 @@
-# idresearch  <img style="float: left;" src="https://github.com/nairakhils/testreadme/blob/main/idrlogo1.png" width="200" height="200">
+<div>
+  <img style="vertical-align:middle" src="https://github.com/nairakhils/testreadme/blob/main/idrlogo1.png">
+  <span style="">Works.</span>
+</div>
+
 ## Documentation
 
 
